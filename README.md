@@ -2,7 +2,7 @@
 
 Heart Disease Prediction using Supervised Learning
 
-This project explores **Supervised Learning** to predict heart disease from patient data using **Logistic Regression, k-NN, and Decision Trees**. Along the way, I learned how preprocessing, feature importance, and model selection dramatically affect performance — and yes, Lagos traffic counts as debugging practice 😅.
+This project explores **Supervised Learning** to predict heart disease from patient data using **Logistic Regression, k-NN, and Decision Trees**. Along the way, I learned how preprocessing, feature importance, and model selection dramatically affect performance, and yes, Lagos traffic counts as debugging practice 😅.
 
 ---
 
@@ -10,7 +10,7 @@ This project explores **Supervised Learning** to predict heart disease from pati
 
 * **Logistic Regression:** Simple, interpretable, and perfect for understanding which features actually influence heart disease.
 * **k-Nearest Neighbors (k-NN):** Intuitive and demonstrates how similar patients cluster together.
-* **Decision Trees:** Visual, easy to interpret, and great for storytelling — I could literally “see” how decisions were made.
+* **Decision Trees:** Visual, easy to interpret, and great for storytelling, I could literally “see” how decisions were made.
 
 ---
 
