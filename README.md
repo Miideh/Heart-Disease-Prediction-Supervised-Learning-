@@ -16,7 +16,7 @@ This project explores **Supervised Learning** to predict heart disease from pati
 
 ## **Project Insights**
 
-### Logistic Regression (85% Accuracy)
+### Logistic Regression (79.1% Accuracy)
 
 * Clean and interpretable.
 * Top predictors: chest pain type, ST depression (`oldpeak`), maximum heart rate (`thalch`), age, and cholesterol.
